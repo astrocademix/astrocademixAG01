@@ -1,0 +1,31 @@
+[local-runner] scenario=demo-week (7 nights) agent=agent\minimal_agent.py wallclock=600s dotenv_keys=[]
+[local-runner] replay written to E:\codex_work\agent-observer-starter-kit\notebook_runs\demo-week_20260929_150000_260e38\decision_replay.html
+{
+  "base_science": 5228.321472,
+  "committed_actions": 299,
+  "completed_tiles": 52,
+  "final_cursor": "2026-10-12T12:30:00Z",
+  "flexible_shortfall_tiles": 5,
+  "global_wallclock_seconds": 600.0,
+  "outputs": {
+    "agent.log": "E:\\codex_work\\agent-observer-starter-kit\\notebook_runs\\demo-week_20260929_150000_260e38\\agent.log",
+    "decisions.csv": "E:\\codex_work\\agent-observer-starter-kit\\notebook_runs\\demo-week_20260929_150000_260e38\\decisions.csv",
+    "score_report.json": "E:\\codex_work\\agent-observer-starter-kit\\notebook_runs\\demo-week_20260929_150000_260e38\\score_report.json",
+    "workflow_result.json": "E:\\codex_work\\agent-observer-starter-kit\\notebook_runs\\demo-week_20260929_150000_260e38\\workflow_result.json"
+  },
+  "penalties": {
+    "flexible_shortfall": 500.0,
+    "request_miss": 0.0,
+    "required_miss": 0.0
+  },
+  "program_bonus": 900.777621,
+  "request_reward": 280.0,
+  "requests": {
+    "completed": 1
+  },
+  "required_missing": 0,
+  "runner_seconds": 2.828,
+  "termination_reason": "survey_complete",
+  "total": 5909.099093,
+  "wall_seconds": 2.672
+}

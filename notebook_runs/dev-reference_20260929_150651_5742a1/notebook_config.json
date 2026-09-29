@@ -1,0 +1,6 @@
+{
+  "scenario": "E:\\codex_work\\agent-observer-starter-kit\\scenarios\\dev-reference",
+  "agent": "E:\\codex_work\\agent-observer-starter-kit\\agent\\minimal_agent.py",
+  "wallclock": 600,
+  "python": "c:\\Program Files\\Python310\\python.exe"
+}

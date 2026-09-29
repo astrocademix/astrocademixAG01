@@ -1,0 +1,4 @@
+[local-runner] entry=minimal_agent.py python=C:\Program Files\Python310\python.exe dotenv_keys=[] wallclock=600s
+Fatal Python error: _Py_HashRandomization_Init: failed to get random numbers to initialize Python
+Python runtime state: preinitialized
+

@@ -1,0 +1,38 @@
+[local-runner] scenario=demo-week (7 nights) agent=agent\minimal_agent.py wallclock=600s dotenv_keys=[]
+[local-runner] agent error at decision 0: RuntimeError: agent exited before reading the next message (code=1) (see agent.log)
+[local-runner] replay written to E:\codex_work\agent-observer-starter-kit\notebook_runs\demo-week_20260929_145752_fc4a8a\decision_replay.html
+[local-runner] the agent failed; last lines of agent.log:
+    [local-runner] entry=minimal_agent.py python=C:\Program Files\Python310\python.exe dotenv_keys=[] wallclock=600s
+    Fatal Python error: _Py_HashRandomization_Init: failed to get random numbers to initialize Python
+    Python runtime state: preinitialized
+    
+[local-runner] full log: E:\codex_work\agent-observer-starter-kit\notebook_runs\demo-week_20260929_145752_fc4a8a\agent.log
+{
+  "base_science": 0.0,
+  "committed_actions": 0,
+  "completed_tiles": 0,
+  "final_cursor": "2026-10-06T02:00:00Z",
+  "flexible_shortfall_tiles": 32,
+  "global_wallclock_seconds": 600.0,
+  "outputs": {
+    "agent.log": "E:\\codex_work\\agent-observer-starter-kit\\notebook_runs\\demo-week_20260929_145752_fc4a8a\\agent.log",
+    "decisions.csv": "E:\\codex_work\\agent-observer-starter-kit\\notebook_runs\\demo-week_20260929_145752_fc4a8a\\decisions.csv",
+    "score_report.json": "E:\\codex_work\\agent-observer-starter-kit\\notebook_runs\\demo-week_20260929_145752_fc4a8a\\score_report.json",
+    "workflow_result.json": "E:\\codex_work\\agent-observer-starter-kit\\notebook_runs\\demo-week_20260929_145752_fc4a8a\\workflow_result.json"
+  },
+  "penalties": {
+    "flexible_shortfall": 3200.0,
+    "request_miss": 0.0,
+    "required_miss": 14000.0
+  },
+  "program_bonus": 0.0,
+  "request_reward": 0.0,
+  "requests": {
+    "active_incomplete": 1
+  },
+  "required_missing": 14,
+  "runner_seconds": 0.047,
+  "termination_reason": "agent_initialization_error",
+  "total": -17200.0,
+  "wall_seconds": 0.0
+}

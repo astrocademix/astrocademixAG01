@@ -1,0 +1,73 @@
+[
+  {
+    "scenario": "demo-week",
+    "total": 5909.099093,
+    "base_science": 5228.321472,
+    "coverage_evenness": 0.857868,
+    "completed": 52,
+    "required_missing": 0,
+    "penalties": {
+      "flexible_shortfall": 500.0,
+      "request_miss": 0.0,
+      "required_miss": 0.0
+    },
+    "reports": {
+      "tag_settlements": [],
+      "fault_correct_reports": 0,
+      "fault_misreports": 0,
+      "fault_acknowledged_event_ids": []
+    },
+    "seconds": 2.781
+  },
+  {
+    "scenario": "dev-reference",
+    "total": 12514.432348,
+    "base_science": 7272.595918,
+    "coverage_evenness": 1.0,
+    "completed": 64,
+    "required_missing": 0,
+    "penalties": {
+      "avoidable_wait": 0.9,
+      "flexible_shortfall": 0.0,
+      "request_miss": 0.0,
+      "required_miss": 0.0
+    },
+    "reports": {
+      "tag_settlements": [],
+      "fault_correct_reports": 0,
+      "fault_misreports": 0,
+      "fault_acknowledged_event_ids": []
+    },
+    "seconds": 55.438
+  },
+  {
+    "scenario": "finals-preview",
+    "total": 8393.041228,
+    "base_science": 6509.80772,
+    "coverage_evenness": 0.845,
+    "completed": 52,
+    "required_missing": 1,
+    "penalties": {
+      "flexible_shortfall": 500.0,
+      "request_miss": 0.0,
+      "required_miss": 1000.0
+    },
+    "reports": {
+      "tag_settlements": [
+        {
+          "tile_id": "T00019",
+          "tag": "nova",
+          "report_id": "D000311",
+          "settled": "correct",
+          "delta": 100.0
+        }
+      ],
+      "fault_correct_reports": 1,
+      "fault_misreports": 1,
+      "fault_acknowledged_event_ids": [
+        "EV0030"
+      ]
+    },
+    "seconds": 5.484
+  }
+]

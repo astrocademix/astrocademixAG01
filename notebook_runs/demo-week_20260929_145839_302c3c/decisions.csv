@@ -1,0 +1,300 @@
+decision_id,slot_id,action,tile_id,program,request_id,reason
+D000001,N20261005-S001,observe,T00041,DARK,,highest public current-snapshot estimate
+D000002,N20261005-S001,observe,T00042,BRIGHT,,highest public current-snapshot estimate
+D000003,N20261005-S002,observe,T00002,BACKUP,,highest public current-snapshot estimate
+D000004,N20261005-S003,observe,T00056,DARK,RQ0001,highest public current-snapshot estimate
+D000005,N20261005-S003,observe,T00050,DARK,,highest public current-snapshot estimate
+D000006,N20261005-S005,observe,T00058,DARK,,highest public current-snapshot estimate
+D000007,N20261005-S006,observe,T00001,BACKUP,,highest public current-snapshot estimate
+D000008,N20261005-S007,observe,T00049,DARK,,highest public current-snapshot estimate
+D000009,N20261005-S008,observe,T00057,DARK,,highest public current-snapshot estimate
+D000010,N20261005-S009,observe,T00063,DARK,,highest public current-snapshot estimate
+D000011,N20261005-S010,observe,T00004,BACKUP,RQ0001,highest public current-snapshot estimate
+D000012,N20261005-S011,observe,T00059,DARK,,highest public current-snapshot estimate
+D000013,N20261005-S012,observe,T00061,BACKUP,,highest public current-snapshot estimate
+D000014,N20261005-S012,observe,T00062,BACKUP,,highest public current-snapshot estimate
+D000015,N20261005-S013,observe,T00051,BACKUP,,highest public current-snapshot estimate
+D000016,N20261005-S013,observe,T00008,BRIGHT,,highest public current-snapshot estimate
+D000017,N20261005-S014,observe,T00003,DARK,,highest public current-snapshot estimate
+D000018,N20261005-S015,observe,T00010,BACKUP,,highest public current-snapshot estimate
+D000019,N20261005-S017,observe,T00007,DARK,,highest public current-snapshot estimate
+D000020,N20261005-S018,observe,T00006,DARK,,highest public current-snapshot estimate
+D000021,N20261005-S019,observe,T00014,BACKUP,,highest public current-snapshot estimate
+D000022,N20261005-S019,observe,T00055,BRIGHT,,highest public current-snapshot estimate
+D000023,N20261005-S020,observe,T00005,BACKUP,,highest public current-snapshot estimate
+D000024,N20261005-S021,observe,T00011,BACKUP,,highest public current-snapshot estimate
+D000025,N20261005-S021,observe,T00013,BACKUP,,highest public current-snapshot estimate
+D000026,N20261005-S023,observe,T00016,BACKUP,,highest public current-snapshot estimate
+D000027,N20261005-S024,observe,T00064,BACKUP,,highest public current-snapshot estimate
+D000028,N20261005-S025,observe,T00060,BRIGHT,,highest public current-snapshot estimate
+D000029,N20261005-S027,observe,T00012,BACKUP,,highest public current-snapshot estimate
+D000030,N20261005-S028,observe,T00021,BRIGHT,,highest public current-snapshot estimate
+D000031,N20261005-S029,observe,T00015,BRIGHT,,highest public current-snapshot estimate
+D000032,N20261005-S030,observe,T00022,BRIGHT,,highest public current-snapshot estimate
+D000033,N20261005-S030,observe,T00024,BRIGHT,,highest public current-snapshot estimate
+D000034,N20261005-S031,observe,T00018,BACKUP,,highest public current-snapshot estimate
+D000035,N20261005-S033,observe,T00023,BRIGHT,,highest public current-snapshot estimate
+D000036,N20261005-S034,observe,T00020,BRIGHT,,highest public current-snapshot estimate
+D000037,N20261005-S035,observe,T00030,BRIGHT,,highest public current-snapshot estimate
+D000038,N20261005-S036,wait,,,,no legal observable candidate can finish in its known window
+D000039,N20261005-S037,wait,,,,no legal observable candidate can finish in its known window
+D000040,N20261005-S038,wait,,,,no legal observable candidate can finish in its known window
+D000041,N20261005-S039,wait,,,,no legal observable candidate can finish in its known window
+D000042,N20261005-S040,wait,,,,no legal observable candidate can finish in its known window
+D000043,N20261005-S041,wait,,,,no legal observable candidate can finish in its known window
+D000044,N20261005-S042,wait,,,,no legal observable candidate can finish in its known window
+D000045,N20261006-S001,observe,T00045,BRIGHT,,highest public current-snapshot estimate
+D000046,N20261006-S001,observe,T00047,BRIGHT,,highest public current-snapshot estimate
+D000047,N20261006-S002,observe,T00043,BRIGHT,,highest public current-snapshot estimate
+D000048,N20261006-S002,observe,T00052,BRIGHT,,highest public current-snapshot estimate
+D000049,N20261006-S003,observe,T00046,BRIGHT,,highest public current-snapshot estimate
+D000050,N20261006-S004,observe,T00053,DARK,,highest public current-snapshot estimate
+D000051,N20261006-S005,observe,T00054,DARK,,highest public current-snapshot estimate
+D000052,N20261006-S007,observe,T00048,BRIGHT,,highest public current-snapshot estimate
+D000053,N20261006-S008,wait,,,,no legal observable candidate can finish in its known window
+D000054,N20261006-S009,wait,,,,no legal observable candidate can finish in its known window
+D000055,N20261006-S010,wait,,,,no legal observable candidate can finish in its known window
+D000056,N20261006-S011,wait,,,,no legal observable candidate can finish in its known window
+D000057,N20261006-S012,wait,,,,no legal observable candidate can finish in its known window
+D000058,N20261006-S013,wait,,,,no legal observable candidate can finish in its known window
+D000059,N20261006-S014,wait,,,,no legal observable candidate can finish in its known window
+D000060,N20261006-S015,wait,,,,no legal observable candidate can finish in its known window
+D000061,N20261006-S016,wait,,,,no legal observable candidate can finish in its known window
+D000062,N20261006-S017,wait,,,,no legal observable candidate can finish in its known window
+D000063,N20261006-S018,wait,,,,no legal observable candidate can finish in its known window
+D000064,N20261006-S019,wait,,,,no legal observable candidate can finish in its known window
+D000065,N20261006-S020,wait,,,,no legal observable candidate can finish in its known window
+D000066,N20261006-S021,wait,,,,no legal observable candidate can finish in its known window
+D000067,N20261006-S022,wait,,,,no legal observable candidate can finish in its known window
+D000068,N20261006-S023,wait,,,,no legal observable candidate can finish in its known window
+D000069,N20261006-S024,wait,,,,no legal observable candidate can finish in its known window
+D000070,N20261006-S025,wait,,,,no legal observable candidate can finish in its known window
+D000071,N20261006-S026,wait,,,,no legal observable candidate can finish in its known window
+D000072,N20261006-S027,observe,T00009,BRIGHT,,highest public current-snapshot estimate
+D000073,N20261006-S028,wait,,,,no legal observable candidate can finish in its known window
+D000074,N20261006-S029,wait,,,,no legal observable candidate can finish in its known window
+D000075,N20261006-S030,wait,,,,no legal observable candidate can finish in its known window
+D000076,N20261006-S031,wait,,,,no legal observable candidate can finish in its known window
+D000077,N20261006-S032,observe,T00017,BRIGHT,,highest public current-snapshot estimate
+D000078,N20261006-S032,wait,,,,no legal observable candidate can finish in its known window
+D000079,N20261006-S033,wait,,,,no legal observable candidate can finish in its known window
+D000080,N20261006-S034,wait,,,,no legal observable candidate can finish in its known window
+D000081,N20261006-S035,wait,,,,no legal observable candidate can finish in its known window
+D000082,N20261006-S036,wait,,,,no legal observable candidate can finish in its known window
+D000083,N20261006-S037,wait,,,,no legal observable candidate can finish in its known window
+D000084,N20261006-S038,wait,,,,no legal observable candidate can finish in its known window
+D000085,N20261006-S039,wait,,,,no legal observable candidate can finish in its known window
+D000086,N20261006-S040,wait,,,,no legal observable candidate can finish in its known window
+D000087,N20261006-S041,wait,,,,no legal observable candidate can finish in its known window
+D000088,N20261006-S042,wait,,,,no legal observable candidate can finish in its known window
+D000089,N20261007-S001,wait,,,,no legal observable candidate can finish in its known window
+D000090,N20261007-S002,wait,,,,no legal observable candidate can finish in its known window
+D000091,N20261007-S003,wait,,,,no legal observable candidate can finish in its known window
+D000092,N20261007-S004,wait,,,,no legal observable candidate can finish in its known window
+D000093,N20261007-S005,wait,,,,no legal observable candidate can finish in its known window
+D000094,N20261007-S006,wait,,,,no legal observable candidate can finish in its known window
+D000095,N20261007-S007,wait,,,,no legal observable candidate can finish in its known window
+D000096,N20261007-S008,wait,,,,no legal observable candidate can finish in its known window
+D000097,N20261007-S009,wait,,,,no legal observable candidate can finish in its known window
+D000098,N20261007-S010,wait,,,,no legal observable candidate can finish in its known window
+D000099,N20261007-S011,wait,,,,no legal observable candidate can finish in its known window
+D000100,N20261007-S012,wait,,,,no legal observable candidate can finish in its known window
+D000101,N20261007-S013,wait,,,,no legal observable candidate can finish in its known window
+D000102,N20261007-S014,wait,,,,no legal observable candidate can finish in its known window
+D000103,N20261007-S015,wait,,,,no legal observable candidate can finish in its known window
+D000104,N20261007-S016,wait,,,,no legal observable candidate can finish in its known window
+D000105,N20261007-S017,wait,,,,no legal observable candidate can finish in its known window
+D000106,N20261007-S018,wait,,,,no legal observable candidate can finish in its known window
+D000107,N20261007-S019,wait,,,,no legal observable candidate can finish in its known window
+D000108,N20261007-S020,wait,,,,no legal observable candidate can finish in its known window
+D000109,N20261007-S021,wait,,,,no legal observable candidate can finish in its known window
+D000110,N20261007-S022,wait,,,,no legal observable candidate can finish in its known window
+D000111,N20261007-S023,wait,,,,no legal observable candidate can finish in its known window
+D000112,N20261007-S024,wait,,,,no legal observable candidate can finish in its known window
+D000113,N20261007-S025,wait,,,,no legal observable candidate can finish in its known window
+D000114,N20261007-S026,wait,,,,no legal observable candidate can finish in its known window
+D000115,N20261007-S027,wait,,,,no legal observable candidate can finish in its known window
+D000116,N20261007-S028,wait,,,,no legal observable candidate can finish in its known window
+D000117,N20261007-S029,wait,,,,no legal observable candidate can finish in its known window
+D000118,N20261007-S030,wait,,,,no legal observable candidate can finish in its known window
+D000119,N20261007-S031,wait,,,,no legal observable candidate can finish in its known window
+D000120,N20261007-S032,wait,,,,no legal observable candidate can finish in its known window
+D000121,N20261007-S033,wait,,,,no legal observable candidate can finish in its known window
+D000122,N20261007-S034,wait,,,,no legal observable candidate can finish in its known window
+D000123,N20261007-S035,wait,,,,no legal observable candidate can finish in its known window
+D000124,N20261007-S036,wait,,,,no legal observable candidate can finish in its known window
+D000125,N20261007-S037,wait,,,,no legal observable candidate can finish in its known window
+D000126,N20261007-S038,wait,,,,no legal observable candidate can finish in its known window
+D000127,N20261007-S039,wait,,,,no legal observable candidate can finish in its known window
+D000128,N20261007-S040,wait,,,,no legal observable candidate can finish in its known window
+D000129,N20261007-S041,wait,,,,no legal observable candidate can finish in its known window
+D000130,N20261007-S042,wait,,,,no legal observable candidate can finish in its known window
+D000131,N20261008-S001,wait,,,,no legal observable candidate can finish in its known window
+D000132,N20261008-S002,wait,,,,no legal observable candidate can finish in its known window
+D000133,N20261008-S003,wait,,,,no legal observable candidate can finish in its known window
+D000134,N20261008-S004,wait,,,,no legal observable candidate can finish in its known window
+D000135,N20261008-S005,wait,,,,no legal observable candidate can finish in its known window
+D000136,N20261008-S006,wait,,,,no legal observable candidate can finish in its known window
+D000137,N20261008-S007,wait,,,,no legal observable candidate can finish in its known window
+D000138,N20261008-S008,wait,,,,no legal observable candidate can finish in its known window
+D000139,N20261008-S009,wait,,,,no legal observable candidate can finish in its known window
+D000140,N20261008-S010,wait,,,,no legal observable candidate can finish in its known window
+D000141,N20261008-S011,wait,,,,no legal observable candidate can finish in its known window
+D000142,N20261008-S012,wait,,,,no legal observable candidate can finish in its known window
+D000143,N20261008-S013,wait,,,,no legal observable candidate can finish in its known window
+D000144,N20261008-S014,wait,,,,no legal observable candidate can finish in its known window
+D000145,N20261008-S015,wait,,,,no legal observable candidate can finish in its known window
+D000146,N20261008-S016,wait,,,,no legal observable candidate can finish in its known window
+D000147,N20261008-S017,wait,,,,no legal observable candidate can finish in its known window
+D000148,N20261008-S018,wait,,,,no legal observable candidate can finish in its known window
+D000149,N20261008-S019,wait,,,,no legal observable candidate can finish in its known window
+D000150,N20261008-S020,wait,,,,no legal observable candidate can finish in its known window
+D000151,N20261008-S021,wait,,,,no legal observable candidate can finish in its known window
+D000152,N20261008-S022,wait,,,,no legal observable candidate can finish in its known window
+D000153,N20261008-S023,wait,,,,no legal observable candidate can finish in its known window
+D000154,N20261008-S024,wait,,,,no legal observable candidate can finish in its known window
+D000155,N20261008-S025,wait,,,,no legal observable candidate can finish in its known window
+D000156,N20261008-S026,wait,,,,no legal observable candidate can finish in its known window
+D000157,N20261008-S027,wait,,,,no legal observable candidate can finish in its known window
+D000158,N20261008-S028,wait,,,,no legal observable candidate can finish in its known window
+D000159,N20261008-S029,wait,,,,no legal observable candidate can finish in its known window
+D000160,N20261008-S030,wait,,,,no legal observable candidate can finish in its known window
+D000161,N20261008-S031,wait,,,,no legal observable candidate can finish in its known window
+D000162,N20261008-S032,wait,,,,no legal observable candidate can finish in its known window
+D000163,N20261008-S033,wait,,,,no legal observable candidate can finish in its known window
+D000164,N20261008-S034,wait,,,,no legal observable candidate can finish in its known window
+D000165,N20261008-S035,observe,T00025,BACKUP,,highest public current-snapshot estimate
+D000166,N20261008-S035,wait,,,,no legal observable candidate can finish in its known window
+D000167,N20261008-S036,wait,,,,no legal observable candidate can finish in its known window
+D000168,N20261008-S037,wait,,,,no legal observable candidate can finish in its known window
+D000169,N20261008-S038,observe,T00019,BACKUP,,highest public current-snapshot estimate
+D000170,N20261008-S038,observe,T00027,BACKUP,,highest public current-snapshot estimate
+D000171,N20261008-S040,observe,T00031,BACKUP,,highest public current-snapshot estimate
+D000172,N20261008-S041,wait,,,,no legal observable candidate can finish in its known window
+D000173,N20261008-S042,wait,,,,no legal observable candidate can finish in its known window
+D000174,N20261009-S001,wait,,,,no legal observable candidate can finish in its known window
+D000175,N20261009-S002,wait,,,,no legal observable candidate can finish in its known window
+D000176,N20261009-S003,wait,,,,no legal observable candidate can finish in its known window
+D000177,N20261009-S004,wait,,,,no legal observable candidate can finish in its known window
+D000178,N20261009-S005,wait,,,,no legal observable candidate can finish in its known window
+D000179,N20261009-S006,wait,,,,no legal observable candidate can finish in its known window
+D000180,N20261009-S007,wait,,,,no legal observable candidate can finish in its known window
+D000181,N20261009-S008,wait,,,,no legal observable candidate can finish in its known window
+D000182,N20261009-S009,wait,,,,no legal observable candidate can finish in its known window
+D000183,N20261009-S010,wait,,,,no legal observable candidate can finish in its known window
+D000184,N20261009-S011,wait,,,,no legal observable candidate can finish in its known window
+D000185,N20261009-S012,wait,,,,no legal observable candidate can finish in its known window
+D000186,N20261009-S013,wait,,,,no legal observable candidate can finish in its known window
+D000187,N20261009-S014,wait,,,,no legal observable candidate can finish in its known window
+D000188,N20261009-S015,wait,,,,no legal observable candidate can finish in its known window
+D000189,N20261009-S016,wait,,,,no legal observable candidate can finish in its known window
+D000190,N20261009-S017,wait,,,,no legal observable candidate can finish in its known window
+D000191,N20261009-S018,wait,,,,no legal observable candidate can finish in its known window
+D000192,N20261009-S019,wait,,,,no legal observable candidate can finish in its known window
+D000193,N20261009-S020,wait,,,,no legal observable candidate can finish in its known window
+D000194,N20261009-S021,wait,,,,no legal observable candidate can finish in its known window
+D000195,N20261009-S022,wait,,,,no legal observable candidate can finish in its known window
+D000196,N20261009-S023,wait,,,,no legal observable candidate can finish in its known window
+D000197,N20261009-S024,wait,,,,no legal observable candidate can finish in its known window
+D000198,N20261009-S025,wait,,,,no legal observable candidate can finish in its known window
+D000199,N20261009-S026,wait,,,,no legal observable candidate can finish in its known window
+D000200,N20261009-S027,wait,,,,no legal observable candidate can finish in its known window
+D000201,N20261009-S028,wait,,,,no legal observable candidate can finish in its known window
+D000202,N20261009-S029,wait,,,,no legal observable candidate can finish in its known window
+D000203,N20261009-S030,wait,,,,no legal observable candidate can finish in its known window
+D000204,N20261009-S031,wait,,,,no legal observable candidate can finish in its known window
+D000205,N20261009-S032,wait,,,,no legal observable candidate can finish in its known window
+D000206,N20261009-S033,wait,,,,no legal observable candidate can finish in its known window
+D000207,N20261009-S034,wait,,,,no legal observable candidate can finish in its known window
+D000208,N20261009-S035,wait,,,,no legal observable candidate can finish in its known window
+D000209,N20261009-S036,wait,,,,no legal observable candidate can finish in its known window
+D000210,N20261009-S037,wait,,,,no legal observable candidate can finish in its known window
+D000211,N20261009-S038,wait,,,,no legal observable candidate can finish in its known window
+D000212,N20261009-S039,wait,,,,no legal observable candidate can finish in its known window
+D000213,N20261009-S040,wait,,,,no legal observable candidate can finish in its known window
+D000214,N20261009-S041,wait,,,,no legal observable candidate can finish in its known window
+D000215,N20261009-S042,wait,,,,no legal observable candidate can finish in its known window
+D000216,N20261010-S001,wait,,,,no legal observable candidate can finish in its known window
+D000217,N20261010-S002,wait,,,,no legal observable candidate can finish in its known window
+D000218,N20261010-S003,wait,,,,no legal observable candidate can finish in its known window
+D000219,N20261010-S004,wait,,,,no legal observable candidate can finish in its known window
+D000220,N20261010-S005,wait,,,,no legal observable candidate can finish in its known window
+D000221,N20261010-S006,wait,,,,no legal observable candidate can finish in its known window
+D000222,N20261010-S007,wait,,,,no legal observable candidate can finish in its known window
+D000223,N20261010-S008,wait,,,,no legal observable candidate can finish in its known window
+D000224,N20261010-S009,wait,,,,no legal observable candidate can finish in its known window
+D000225,N20261010-S010,wait,,,,no legal observable candidate can finish in its known window
+D000226,N20261010-S011,wait,,,,no legal observable candidate can finish in its known window
+D000227,N20261010-S012,wait,,,,no legal observable candidate can finish in its known window
+D000228,N20261010-S013,wait,,,,no legal observable candidate can finish in its known window
+D000229,N20261010-S014,wait,,,,no legal observable candidate can finish in its known window
+D000230,N20261010-S015,wait,,,,no legal observable candidate can finish in its known window
+D000231,N20261010-S016,wait,,,,no legal observable candidate can finish in its known window
+D000232,N20261010-S017,wait,,,,no legal observable candidate can finish in its known window
+D000233,N20261010-S018,wait,,,,no legal observable candidate can finish in its known window
+D000234,N20261010-S019,wait,,,,no legal observable candidate can finish in its known window
+D000235,N20261010-S020,wait,,,,no legal observable candidate can finish in its known window
+D000236,N20261010-S021,wait,,,,no legal observable candidate can finish in its known window
+D000237,N20261010-S022,wait,,,,no legal observable candidate can finish in its known window
+D000238,N20261010-S023,wait,,,,no legal observable candidate can finish in its known window
+D000239,N20261010-S024,wait,,,,no legal observable candidate can finish in its known window
+D000240,N20261010-S025,wait,,,,no legal observable candidate can finish in its known window
+D000241,N20261010-S026,wait,,,,no legal observable candidate can finish in its known window
+D000242,N20261010-S027,wait,,,,no legal observable candidate can finish in its known window
+D000243,N20261010-S028,wait,,,,no legal observable candidate can finish in its known window
+D000244,N20261010-S029,wait,,,,no legal observable candidate can finish in its known window
+D000245,N20261010-S030,wait,,,,no legal observable candidate can finish in its known window
+D000246,N20261010-S031,wait,,,,no legal observable candidate can finish in its known window
+D000247,N20261010-S032,wait,,,,no legal observable candidate can finish in its known window
+D000248,N20261010-S033,wait,,,,no legal observable candidate can finish in its known window
+D000249,N20261010-S034,wait,,,,no legal observable candidate can finish in its known window
+D000250,N20261010-S035,wait,,,,no legal observable candidate can finish in its known window
+D000251,N20261010-S036,wait,,,,no legal observable candidate can finish in its known window
+D000252,N20261010-S037,wait,,,,no legal observable candidate can finish in its known window
+D000253,N20261010-S038,wait,,,,no legal observable candidate can finish in its known window
+D000254,N20261010-S039,wait,,,,no legal observable candidate can finish in its known window
+D000255,N20261010-S040,wait,,,,no legal observable candidate can finish in its known window
+D000256,N20261010-S041,observe,T00029,BACKUP,,highest public current-snapshot estimate
+D000257,N20261010-S042,wait,,,,no legal observable candidate can finish in its known window
+D000258,N20261011-S001,wait,,,,no legal observable candidate can finish in its known window
+D000259,N20261011-S002,wait,,,,no legal observable candidate can finish in its known window
+D000260,N20261011-S003,wait,,,,no legal observable candidate can finish in its known window
+D000261,N20261011-S004,wait,,,,no legal observable candidate can finish in its known window
+D000262,N20261011-S005,wait,,,,no legal observable candidate can finish in its known window
+D000263,N20261011-S006,wait,,,,no legal observable candidate can finish in its known window
+D000264,N20261011-S007,wait,,,,no legal observable candidate can finish in its known window
+D000265,N20261011-S008,wait,,,,no legal observable candidate can finish in its known window
+D000266,N20261011-S009,wait,,,,no legal observable candidate can finish in its known window
+D000267,N20261011-S010,wait,,,,no legal observable candidate can finish in its known window
+D000268,N20261011-S011,wait,,,,no legal observable candidate can finish in its known window
+D000269,N20261011-S012,wait,,,,no legal observable candidate can finish in its known window
+D000270,N20261011-S013,wait,,,,no legal observable candidate can finish in its known window
+D000271,N20261011-S014,wait,,,,no legal observable candidate can finish in its known window
+D000272,N20261011-S015,wait,,,,no legal observable candidate can finish in its known window
+D000273,N20261011-S016,wait,,,,no legal observable candidate can finish in its known window
+D000274,N20261011-S017,wait,,,,no legal observable candidate can finish in its known window
+D000275,N20261011-S018,wait,,,,no legal observable candidate can finish in its known window
+D000276,N20261011-S019,wait,,,,no legal observable candidate can finish in its known window
+D000277,N20261011-S020,wait,,,,no legal observable candidate can finish in its known window
+D000278,N20261011-S021,wait,,,,no legal observable candidate can finish in its known window
+D000279,N20261011-S022,wait,,,,no legal observable candidate can finish in its known window
+D000280,N20261011-S023,wait,,,,no legal observable candidate can finish in its known window
+D000281,N20261011-S024,wait,,,,no legal observable candidate can finish in its known window
+D000282,N20261011-S025,wait,,,,no legal observable candidate can finish in its known window
+D000283,N20261011-S026,wait,,,,no legal observable candidate can finish in its known window
+D000284,N20261011-S027,wait,,,,no legal observable candidate can finish in its known window
+D000285,N20261011-S028,wait,,,,no legal observable candidate can finish in its known window
+D000286,N20261011-S029,wait,,,,no legal observable candidate can finish in its known window
+D000287,N20261011-S030,wait,,,,no legal observable candidate can finish in its known window
+D000288,N20261011-S031,wait,,,,no legal observable candidate can finish in its known window
+D000289,N20261011-S032,wait,,,,no legal observable candidate can finish in its known window
+D000290,N20261011-S033,wait,,,,no legal observable candidate can finish in its known window
+D000291,N20261011-S034,wait,,,,no legal observable candidate can finish in its known window
+D000292,N20261011-S035,wait,,,,no legal observable candidate can finish in its known window
+D000293,N20261011-S036,wait,,,,no legal observable candidate can finish in its known window
+D000294,N20261011-S037,wait,,,,no legal observable candidate can finish in its known window
+D000295,N20261011-S038,wait,,,,no legal observable candidate can finish in its known window
+D000296,N20261011-S039,wait,,,,no legal observable candidate can finish in its known window
+D000297,N20261011-S040,wait,,,,no legal observable candidate can finish in its known window
+D000298,N20261011-S041,wait,,,,no legal observable candidate can finish in its known window
+D000299,N20261011-S042,wait,,,,no legal observable candidate can finish in its known window

@@ -1,0 +1,62 @@
+[
+  {
+    "scenario": "develop-17",
+    "total": 32053.326814,
+    "base_science": 21898.608383,
+    "coverage_evenness": 0.853346,
+    "completed": 153,
+    "required_missing": 1,
+    "penalties": {
+      "flexible_shortfall": 400.0,
+      "request_miss": 0.0,
+      "required_miss": 1000.0
+    },
+    "reports": {
+      "tag_settlements": [
+        {
+          "tile_id": "T00184",
+          "tag": "reddening",
+          "report_id": "D000318",
+          "settled": "correct",
+          "delta": 100.0
+        }
+      ],
+      "fault_correct_reports": 1,
+      "fault_misreports": 0,
+      "fault_acknowledged_event_ids": [
+        "EV0030"
+      ]
+    },
+    "seconds": 25.531
+  },
+  {
+    "scenario": "develop-43",
+    "total": 30349.09843,
+    "base_science": 20095.327943,
+    "coverage_evenness": 0.860294,
+    "completed": 156,
+    "required_missing": 0,
+    "penalties": {
+      "flexible_shortfall": 400.0,
+      "request_miss": 0.0,
+      "required_miss": 0.0
+    },
+    "reports": {
+      "tag_settlements": [
+        {
+          "tile_id": "T00162",
+          "tag": "reddening",
+          "report_id": "D000601",
+          "settled": "correct",
+          "delta": 100.0
+        }
+      ],
+      "fault_correct_reports": 1,
+      "fault_misreports": 1,
+      "fault_acknowledged_event_ids": [
+        "EV0030"
+      ]
+    },
+    "seconds": 26.844
+  }
+]

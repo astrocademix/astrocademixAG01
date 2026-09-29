@@ -1,0 +1,315 @@
+decision_id,slot_id,action,tile_id,program,request_id,reason
+D000001,N20261005-S001,observe,T00041,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.02; next_rate=1.8842; objective=2.9371
+D000002,N20261005-S001,observe,T00050,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=11.28; next_rate=1.3057; objective=2.2064
+D000003,N20261005-S002,observe,T00049,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=10.19; next_rate=1.2792; objective=1.6252
+D000004,N20261005-S003,observe,T00042,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=11.86; next_rate=0.9524; objective=1.5073
+D000005,N20261005-S004,observe,T00002,BACKUP,,paper-inspired feasible lookahead: coverage_delta=19.35; next_rate=0.9649; objective=1.4658
+D000006,N20261005-S005,observe,T00058,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=31.10; next_rate=0.8814; objective=1.1923
+D000007,N20261005-S006,observe,T00057,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=28.24; next_rate=0.6336; objective=1.0495
+D000008,N20261005-S008,observe,T00059,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=19.15; next_rate=0.6308; objective=0.8194
+D000009,N20261005-S008,observe,T00063,DARK,,paper-inspired feasible lookahead: coverage_delta=10.94; next_rate=0.5926; objective=0.7812
+D000010,N20261005-S009,observe,T00003,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=29.62; next_rate=0.4687; objective=0.7176
+D000011,N20261005-S009,observe,T00062,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=10.95; next_rate=0.4031; objective=0.5757
+D000012,N20261005-S010,observe,T00044,BACKUP,,paper-inspired feasible lookahead: coverage_delta=21.82; next_rate=0.3913; objective=0.4864
+D000013,N20261005-S010,observe,T00043,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=15.74; next_rate=0.3358; objective=0.4657
+D000014,N20261005-S011,observe,T00053,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=30.91; next_rate=0.2743; objective=0.3962
+D000015,N20261005-S012,observe,T00055,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=20.24; next_rate=0.2426; objective=0.3312
+D000016,N20261005-S013,observe,T00061,DARK,,paper-inspired feasible lookahead: coverage_delta=14.29; next_rate=0.2348; objective=0.2969
+D000017,N20261005-S014,wait,,,,no legal observable candidate can finish in its known window
+D000018,N20261005-S015,wait,,,,no legal observable candidate can finish in its known window
+D000019,N20261005-S016,wait,,,,no legal observable candidate can finish in its known window
+D000020,N20261005-S017,wait,,,,no legal observable candidate can finish in its known window
+D000021,N20261005-S018,wait,,,,no legal observable candidate can finish in its known window
+D000022,N20261005-S019,wait,,,,no legal observable candidate can finish in its known window
+D000023,N20261005-S020,wait,,,,no legal observable candidate can finish in its known window
+D000024,N20261005-S021,wait,,,,no legal observable candidate can finish in its known window
+D000025,N20261005-S022,wait,,,,no legal observable candidate can finish in its known window
+D000026,N20261005-S023,wait,,,,no legal observable candidate can finish in its known window
+D000027,N20261005-S024,wait,,,,no legal observable candidate can finish in its known window
+D000028,N20261005-S025,wait,,,,no legal observable candidate can finish in its known window
+D000029,N20261005-S026,wait,,,,no legal observable candidate can finish in its known window
+D000030,N20261005-S027,wait,,,,no legal observable candidate can finish in its known window
+D000031,N20261005-S028,wait,,,,no legal observable candidate can finish in its known window
+D000032,N20261005-S029,wait,,,,no legal observable candidate can finish in its known window
+D000033,N20261005-S030,wait,,,,no legal observable candidate can finish in its known window
+D000034,N20261005-S031,wait,,,,no legal observable candidate can finish in its known window
+D000035,N20261005-S032,wait,,,,no legal observable candidate can finish in its known window
+D000036,N20261005-S033,wait,,,,no legal observable candidate can finish in its known window
+D000037,N20261005-S034,wait,,,,no legal observable candidate can finish in its known window
+D000038,N20261005-S035,wait,,,,no legal observable candidate can finish in its known window
+D000039,N20261005-S036,wait,,,,no legal observable candidate can finish in its known window
+D000040,N20261005-S037,wait,,,,no legal observable candidate can finish in its known window
+D000041,N20261005-S038,wait,,,,no legal observable candidate can finish in its known window
+D000042,N20261005-S039,wait,,,,no legal observable candidate can finish in its known window
+D000043,N20261005-S040,wait,,,,no legal observable candidate can finish in its known window
+D000044,N20261005-S041,wait,,,,no legal observable candidate can finish in its known window
+D000045,N20261005-S042,wait,,,,no legal observable candidate can finish in its known window
+D000046,N20261006-S001,observe,T00046,BACKUP,RQ0001,paper-inspired feasible lookahead: coverage_delta=10.22; next_rate=0.5054; objective=1.2830
+D000047,N20261006-S001,observe,T00045,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=10.55; next_rate=0.2613; objective=0.5658
+D000048,N20261006-S002,observe,T00052,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=17.76; next_rate=0.2555; objective=0.3231
+D000049,N20261006-S003,observe,T00054,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=22.44; next_rate=0.2114; objective=0.3026
+D000050,N20261006-S004,observe,T00061,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=16.51; next_rate=0.1640; objective=0.2406
+D000051,N20261006-S005,observe,T00004,BACKUP,,paper-inspired feasible lookahead: coverage_delta=26.38; next_rate=0.1531; objective=0.2076
+D000052,N20261006-S007,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=23.33; next_rate=0.1623; objective=1.8829
+D000053,N20261006-S007,observe,T00006,BACKUP,,paper-inspired feasible lookahead: coverage_delta=18.88; next_rate=0.1352; objective=0.1995
+D000054,N20261006-S009,observe,T00005,BACKUP,,paper-inspired feasible lookahead: coverage_delta=12.16; next_rate=0.1406; objective=0.1814
+D000055,N20261006-S010,observe,T00051,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=23.29; next_rate=0.1281; objective=0.1712
+D000056,N20261006-S011,observe,T00064,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=23.14; next_rate=0.1136; objective=0.1609
+D000057,N20261006-S013,observe,T00056,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=14.75; next_rate=0.1017; objective=0.1266
+D000058,N20261006-S014,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=19.09; next_rate=0.1003; objective=0.1358
+D000059,N20261006-S016,observe,T00011,BACKUP,,paper-inspired feasible lookahead: coverage_delta=43.06; next_rate=0.0997; objective=0.1946
+D000060,N20261006-S017,observe,T00016,BACKUP,,paper-inspired feasible lookahead: coverage_delta=39.12; next_rate=0.3498; objective=0.5689
+D000061,N20261006-S018,observe,T00010,BACKUP,,paper-inspired feasible lookahead: coverage_delta=36.66; next_rate=0.3651; objective=2.5790
+D000062,N20261006-S018,observe,T00014,BACKUP,,paper-inspired feasible lookahead: coverage_delta=33.86; next_rate=0.2344; objective=0.4306
+D000063,N20261006-S019,observe,T00013,BACKUP,,paper-inspired feasible lookahead: coverage_delta=29.42; next_rate=0.1394; objective=0.2778
+D000064,N20261006-S020,observe,T00015,BACKUP,,paper-inspired feasible lookahead: coverage_delta=23.40; next_rate=0.1401; objective=0.2691
+D000065,N20261006-S020,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=13.51; next_rate=0.1166; objective=0.1714
+D000066,N20261006-S021,observe,T00003,DARK,,paper-inspired feasible lookahead: coverage_delta=10.54; next_rate=0.1213; objective=0.1892
+D000067,N20261006-S022,observe,T00008,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=22.70; next_rate=0.0996; objective=0.1422
+D000068,N20261006-S023,observe,T00009,BACKUP,,paper-inspired feasible lookahead: coverage_delta=17.14; next_rate=0.1231; objective=1.8381
+D000069,N20261006-S024,observe,T00016,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=10.92; next_rate=0.1503; objective=0.1908
+D000070,N20261006-S024,observe,T00010,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=11.32; next_rate=0.1388; objective=0.1935
+D000071,N20261006-S025,observe,T00002,DARK,,paper-inspired feasible lookahead: coverage_delta=19.67; next_rate=0.1436; objective=0.1840
+D000072,N20261006-S026,observe,T00020,BACKUP,,paper-inspired feasible lookahead: coverage_delta=58.87; next_rate=0.1477; objective=0.6093
+D000073,N20261006-S026,observe,T00021,BACKUP,,paper-inspired feasible lookahead: coverage_delta=54.37; next_rate=0.1571; objective=0.4532
+D000074,N20261006-S027,observe,T00023,BACKUP,,paper-inspired feasible lookahead: coverage_delta=48.93; next_rate=0.1626; objective=0.5718
+D000075,N20261006-S027,observe,T00015,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=13.48; next_rate=0.1384; objective=0.2048
+D000076,N20261006-S028,observe,T00012,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=20.97; next_rate=0.1416; objective=0.1833
+D000077,N20261006-S029,observe,T00014,DARK,,paper-inspired feasible lookahead: coverage_delta=20.49; next_rate=0.1611; objective=0.2488
+D000078,N20261006-S030,observe,T00022,BACKUP,,paper-inspired feasible lookahead: coverage_delta=47.88; next_rate=0.1642; objective=0.2503
+D000079,N20261006-S031,observe,T00017,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=44.59; next_rate=0.2490; objective=1.0332
+D000080,N20261006-S032,observe,T00024,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=39.20; next_rate=0.2089; objective=0.3218
+D000081,N20261006-S033,observe,T00020,DARK,,paper-inspired feasible lookahead: coverage_delta=20.78; next_rate=0.2316; objective=0.3274
+D000082,N20261006-S033,observe,T00010,DARK,,paper-inspired feasible lookahead: coverage_delta=18.11; next_rate=0.2307; objective=0.2925
+D000083,N20261006-S034,observe,T00018,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=28.74; next_rate=0.2121; objective=0.9949
+D000084,N20261006-S035,wait,,,,no legal observable candidate can finish in its known window
+D000085,N20261006-S036,wait,,,,no legal observable candidate can finish in its known window
+D000086,N20261006-S037,wait,,,,no legal observable candidate can finish in its known window
+D000087,N20261006-S038,wait,,,,no legal observable candidate can finish in its known window
+D000088,N20261006-S039,wait,,,,no legal observable candidate can finish in its known window
+D000089,N20261006-S040,wait,,,,no legal observable candidate can finish in its known window
+D000090,N20261006-S041,wait,,,,no legal observable candidate can finish in its known window
+D000091,N20261006-S042,wait,,,,no legal observable candidate can finish in its known window
+D000092,N20261007-S001,observe,T00048,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=32.79; next_rate=0.0924; objective=0.1499
+D000093,N20261007-S002,observe,T00047,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=22.91; next_rate=0.0854; objective=0.1136
+D000094,N20261007-S003,observe,T00060,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=22.81; next_rate=0.0574; objective=0.1026
+D000095,N20261007-S005,observe,T00044,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.45; next_rate=0.0132; objective=0.0345
+D000096,N20261007-S006,observe,T00056,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.06; next_rate=0.0044; objective=0.0134
+D000097,N20261007-S007,observe,T00004,BACKUP,,paper-inspired feasible lookahead: coverage_delta=2.88; next_rate=0.0091; objective=0.0146
+D000098,N20261007-S008,observe,T00004,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.19; next_rate=0.0160; objective=0.0230
+D000099,N20261007-S010,observe,T00006,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.97; next_rate=0.0159; objective=0.0219
+D000100,N20261007-S011,observe,T00058,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.99; next_rate=0.0225; objective=0.0282
+D000101,N20261007-S012,observe,T00004,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=6.24; next_rate=0.0247; objective=0.0344
+D000102,N20261007-S014,observe,T00005,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.97; next_rate=0.0119; objective=0.0209
+D000103,N20261007-S015,observe,T00006,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.96; next_rate=0.0049; objective=0.0101
+D000104,N20261007-S016,observe,T00005,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.11; next_rate=0.0038; objective=0.0060
+D000105,N20261007-S018,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000106,N20261007-S018,observe,T00011,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.70; next_rate=0.0000; objective=0.0027
+D000107,N20261007-S020,observe,T00011,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.03; next_rate=0.0102; objective=0.0187
+D000108,N20261007-S021,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.11; next_rate=0.0067; objective=0.0157
+D000109,N20261007-S023,observe,T00011,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.25; next_rate=0.0035; objective=0.0059
+D000110,N20261007-S024,observe,T00013,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.82; next_rate=0.0079; objective=0.0250
+D000111,N20261007-S025,observe,T00011,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=2.45; next_rate=0.0098; objective=0.0123
+D000112,N20261007-S027,observe,T00013,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.13; next_rate=0.0164; objective=0.0230
+D000113,N20261007-S028,observe,T00009,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.05; next_rate=0.0161; objective=0.0407
+D000114,N20261007-S028,observe,T00005,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.56; next_rate=0.0144; objective=0.0197
+D000115,N20261007-S030,observe,T00009,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.80; next_rate=0.0151; objective=0.0200
+D000116,N20261007-S030,observe,T00023,BACKUP,,paper-inspired feasible lookahead: coverage_delta=1.85; next_rate=0.0157; objective=0.0251
+D000117,N20261007-S031,observe,T00021,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.22; next_rate=0.0192; objective=0.0430
+D000118,N20261007-S032,observe,T00023,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.87; next_rate=0.0224; objective=0.0523
+D000119,N20261007-S032,observe,T00019,BACKUP,,paper-inspired feasible lookahead: coverage_delta=27.78; next_rate=0.0230; objective=0.0838
+D000120,N20261007-S034,observe,T00018,BACKUP,,paper-inspired feasible lookahead: coverage_delta=20.40; next_rate=0.0326; objective=0.9184
+D000121,N20261007-S035,observe,T00023,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.33; next_rate=0.0455; objective=0.0632
+D000122,N20261007-S035,observe,T00021,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=5.58; next_rate=0.0410; objective=0.0602
+D000123,N20261007-S036,observe,T00009,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=5.33; next_rate=0.0387; objective=0.0575
+D000124,N20261007-S037,observe,T00016,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.06; next_rate=0.0334; objective=0.0450
+D000125,N20261007-S037,observe,T00022,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=8.07; next_rate=0.0301; objective=0.0437
+D000126,N20261007-S039,observe,T00026,BACKUP,,paper-inspired feasible lookahead: coverage_delta=73.05; next_rate=0.2019; objective=1.0125
+D000127,N20261007-S040,observe,T00029,BACKUP,,paper-inspired feasible lookahead: coverage_delta=63.36; next_rate=0.2087; objective=0.3047
+D000128,N20261007-S041,observe,T00032,BACKUP,,paper-inspired feasible lookahead: coverage_delta=64.59; next_rate=0.0000; objective=0.2138
+D000129,N20261007-S042,wait,,,,no legal observable candidate can finish in its known window
+D000130,N20261008-S001,observe,T00043,DARK,,paper-inspired feasible lookahead: coverage_delta=17.61; next_rate=0.1393; objective=0.1909
+D000131,N20261008-S001,observe,T00044,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=15.72; next_rate=0.1095; objective=0.1577
+D000132,N20261008-S002,observe,T00053,DARK,,paper-inspired feasible lookahead: coverage_delta=18.56; next_rate=0.0639; objective=0.1256
+D000133,N20261008-S003,observe,T00049,DARK,,paper-inspired feasible lookahead: coverage_delta=8.51; next_rate=0.0501; objective=0.0628
+D000134,N20261008-S004,observe,T00056,DARK,,paper-inspired feasible lookahead: coverage_delta=10.51; next_rate=0.0400; objective=0.0514
+D000135,N20261008-S005,observe,T00059,DARK,,paper-inspired feasible lookahead: coverage_delta=6.08; next_rate=0.0508; objective=0.0846
+D000136,N20261008-S006,observe,T00063,DARK,,paper-inspired feasible lookahead: coverage_delta=4.96; next_rate=0.0563; objective=0.0727
+D000137,N20261008-S006,observe,T00054,DARK,,paper-inspired feasible lookahead: coverage_delta=12.07; next_rate=0.0527; objective=0.0666
+D000138,N20261008-S008,observe,T00051,DARK,,paper-inspired feasible lookahead: coverage_delta=15.18; next_rate=0.0596; objective=0.0747
+D000139,N20261008-S009,observe,T00055,DARK,,paper-inspired feasible lookahead: coverage_delta=10.82; next_rate=0.0618; objective=0.0794
+D000140,N20261008-S010,observe,T00063,DARK,,paper-inspired feasible lookahead: coverage_delta=8.08; next_rate=0.0557; objective=0.1094
+D000141,N20261008-S011,observe,T00001,DARK,,paper-inspired feasible lookahead: coverage_delta=8.35; next_rate=0.0322; objective=0.0820
+D000142,N20261008-S011,observe,T00002,DARK,,paper-inspired feasible lookahead: coverage_delta=4.24; next_rate=0.0242; objective=0.0311
+D000143,N20261008-S012,observe,T00005,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.78; next_rate=0.0155; objective=0.0195
+D000144,N20261008-S014,observe,T00062,DARK,,paper-inspired feasible lookahead: coverage_delta=21.86; next_rate=0.1450; objective=0.2300
+D000145,N20261008-S014,observe,T00059,DARK,,paper-inspired feasible lookahead: coverage_delta=11.98; next_rate=0.1269; objective=0.1733
+D000146,N20261008-S015,observe,T00003,DARK,,paper-inspired feasible lookahead: coverage_delta=10.05; next_rate=0.0792; objective=0.1385
+D000147,N20261008-S015,observe,T00057,DARK,,paper-inspired feasible lookahead: coverage_delta=19.77; next_rate=0.0742; objective=0.0964
+D000148,N20261008-S017,observe,T00006,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=6.31; next_rate=0.0164; objective=0.0302
+D000149,N20261008-S018,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.41; next_rate=0.0043; objective=0.0069
+D000150,N20261008-S020,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.76; next_rate=0.0057; objective=0.0087
+D000151,N20261008-S021,observe,T00006,BRIGHT,,repeat observation to confirm an anomalous realized-score deviation
+D000152,N20261008-S022,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.01; next_rate=0.0040; objective=0.0052
+D000153,N20261008-S024,observe,T00011,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=2.37; next_rate=0.0024; objective=0.0093
+D000154,N20261008-S025,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.76; next_rate=0.0072; objective=0.0091
+D000155,N20261008-S026,observe,T00013,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=2.34; next_rate=0.0102; objective=0.0154
+D000156,N20261008-S027,observe,T00011,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=5.40; next_rate=0.0148; objective=0.0236
+D000157,N20261008-S027,report_instrument_failure,,,,
+D000158,N20261008-S029,observe,T00013,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.92; next_rate=0.0088; objective=0.0239
+D000159,N20261008-S030,observe,T00015,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.59; next_rate=0.0121; objective=0.0206
+D000160,N20261008-S030,observe,T00016,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.05; next_rate=0.0112; objective=0.0144
+D000161,N20261008-S031,observe,T00015,DARK,,paper-inspired feasible lookahead: coverage_delta=7.79; next_rate=0.0457; objective=0.1034
+D000162,N20261008-S031,observe,T00016,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.47; next_rate=0.0406; objective=0.0596
+D000163,N20261008-S032,observe,T00016,DARK,,paper-inspired feasible lookahead: coverage_delta=5.31; next_rate=0.0623; objective=0.0784
+D000164,N20261008-S032,observe,T00013,DARK,,paper-inspired feasible lookahead: coverage_delta=10.62; next_rate=0.0623; objective=0.0783
+D000165,N20261008-S033,observe,T00023,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=6.12; next_rate=0.0635; objective=0.0835
+D000166,N20261008-S034,observe,T00021,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.96; next_rate=0.0391; objective=0.0509
+D000167,N20261008-S035,observe,T00009,DARK,,paper-inspired feasible lookahead: coverage_delta=6.90; next_rate=0.0336; objective=0.0696
+D000168,N20261008-S035,observe,T00011,DARK,,paper-inspired feasible lookahead: coverage_delta=8.20; next_rate=0.0256; objective=0.0387
+D000169,N20261008-S037,observe,T00017,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=6.54; next_rate=0.0219; objective=0.0326
+D000170,N20261008-S038,observe,T00024,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.53; next_rate=0.0241; objective=0.0435
+D000171,N20261008-S039,observe,T00019,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=5.73; next_rate=0.0177; objective=0.0255
+D000172,N20261008-S040,observe,T00022,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=6.24; next_rate=0.0233; objective=0.0317
+D000173,N20261008-S042,observe,T00030,BACKUP,,paper-inspired feasible lookahead: coverage_delta=63.57; next_rate=0.0000; objective=0.4272
+D000174,N20261008-S042,wait,,,,no legal observable candidate can finish in its known window
+D000175,N20261009-S001,observe,T00045,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.58; next_rate=0.0396; objective=0.0596
+D000176,N20261009-S001,observe,T00042,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=6.26; next_rate=0.0277; objective=0.0410
+D000177,N20261009-S002,observe,T00050,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.96; next_rate=0.0282; objective=0.0393
+D000178,N20261009-S003,observe,T00060,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=6.40; next_rate=0.0229; objective=0.0289
+D000179,N20261009-S004,observe,T00048,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.57; next_rate=0.0125; objective=0.0177
+D000180,N20261009-S006,observe,T00006,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000181,N20261009-S007,observe,T00060,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=2.06; next_rate=0.0053; objective=0.0088
+D000182,N20261009-S008,observe,T00058,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.75; next_rate=0.0000; objective=0.0071
+D000183,N20261009-S010,observe,T00058,DARK,,paper-inspired feasible lookahead: coverage_delta=7.66; next_rate=0.0257; objective=0.0398
+D000184,N20261009-S011,observe,T00064,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.56; next_rate=0.0018; objective=0.0025
+D000185,N20261009-S013,observe,T00004,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.02; next_rate=0.0000; objective=0.0001
+D000186,N20261009-S014,observe,T00004,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.96; next_rate=0.0000; objective=0.0039
+D000187,N20261009-S015,observe,T00004,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.39; next_rate=0.0000; objective=0.0016
+D000188,N20261009-S016,wait,,,,no legal observable candidate can finish in its known window
+D000189,N20261009-S017,wait,,,,no legal observable candidate can finish in its known window
+D000190,N20261009-S018,wait,,,,no legal observable candidate can finish in its known window
+D000191,N20261009-S019,wait,,,,no legal observable candidate can finish in its known window
+D000192,N20261009-S020,wait,,,,no legal observable candidate can finish in its known window
+D000193,N20261009-S021,wait,,,,no legal observable candidate can finish in its known window
+D000194,N20261009-S022,wait,,,,no legal observable candidate can finish in its known window
+D000195,N20261009-S023,wait,,,,no legal observable candidate can finish in its known window
+D000196,N20261009-S024,wait,,,,no legal observable candidate can finish in its known window
+D000197,N20261009-S025,wait,,,,no legal observable candidate can finish in its known window
+D000198,N20261009-S026,wait,,,,no legal observable candidate can finish in its known window
+D000199,N20261009-S027,wait,,,,no legal observable candidate can finish in its known window
+D000200,N20261009-S028,wait,,,,no legal observable candidate can finish in its known window
+D000201,N20261009-S029,wait,,,,no legal observable candidate can finish in its known window
+D000202,N20261009-S030,wait,,,,no legal observable candidate can finish in its known window
+D000203,N20261009-S031,wait,,,,no legal observable candidate can finish in its known window
+D000204,N20261009-S032,wait,,,,no legal observable candidate can finish in its known window
+D000205,N20261009-S033,wait,,,,no legal observable candidate can finish in its known window
+D000206,N20261009-S034,wait,,,,no legal observable candidate can finish in its known window
+D000207,N20261009-S035,wait,,,,no legal observable candidate can finish in its known window
+D000208,N20261009-S036,wait,,,,no legal observable candidate can finish in its known window
+D000209,N20261009-S037,wait,,,,no legal observable candidate can finish in its known window
+D000210,N20261009-S038,wait,,,,no legal observable candidate can finish in its known window
+D000211,N20261009-S039,wait,,,,no legal observable candidate can finish in its known window
+D000212,N20261009-S040,wait,,,,no legal observable candidate can finish in its known window
+D000213,N20261009-S041,wait,,,,no legal observable candidate can finish in its known window
+D000214,N20261009-S042,observe,T00021,DARK,,paper-inspired feasible lookahead: coverage_delta=10.03; next_rate=0.0000; objective=0.0874
+D000215,N20261009-S042,wait,,,,no legal observable candidate can finish in its known window
+D000216,N20261010-S001,observe,T00047,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.10; next_rate=0.0000; objective=0.0040
+D000217,N20261010-S002,observe,T00048,BRIGHT,,repeat observation to confirm an anomalous realized-score deviation
+D000218,N20261010-S003,observe,T00054,BRIGHT,,repeat observation to confirm an anomalous realized-score deviation
+D000219,N20261010-S005,observe,T00058,BRIGHT,,repeat observation to confirm an anomalous realized-score deviation
+D000220,N20261010-S006,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000221,N20261010-S007,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000222,N20261010-S007,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000223,N20261010-S008,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000224,N20261010-S009,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000225,N20261010-S009,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000226,N20261010-S010,observe,T00007,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000227,N20261010-S011,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000228,N20261010-S012,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000229,N20261010-S013,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000230,N20261010-S013,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000231,N20261010-S014,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000232,N20261010-S015,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000233,N20261010-S015,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000234,N20261010-S016,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000235,N20261010-S017,wait,,,,no legal observable candidate can finish in its known window
+D000236,N20261010-S018,wait,,,,no legal observable candidate can finish in its known window
+D000237,N20261010-S019,wait,,,,no legal observable candidate can finish in its known window
+D000238,N20261010-S020,wait,,,,no legal observable candidate can finish in its known window
+D000239,N20261010-S021,observe,T00004,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.36; next_rate=0.0012; objective=0.0058
+D000240,N20261010-S022,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=2.09; next_rate=0.0053; objective=0.0099
+D000241,N20261010-S023,observe,T00008,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.48; next_rate=0.0000; objective=0.0017
+D000242,N20261010-S025,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000243,N20261010-S025,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000244,N20261010-S026,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000245,N20261010-S027,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000246,N20261010-S027,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000247,N20261010-S028,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000248,N20261010-S029,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000249,N20261010-S029,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000250,N20261010-S029,report_instrument_failure,,,,
+D000251,N20261010-S030,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000252,N20261010-S031,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000253,N20261010-S031,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000254,N20261010-S032,observe,T00001,BRIGHT,,repeat observation to confirm an anomalous realized-score deviation
+D000255,N20261010-S033,observe,T00012,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=2.17; next_rate=0.0000; objective=0.0118
+D000256,N20261010-S034,observe,T00012,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.99; next_rate=0.0000; objective=0.0054
+D000257,N20261010-S035,observe,T00012,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.87; next_rate=0.0000; objective=0.0047
+D000258,N20261010-S036,observe,T00012,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.98; next_rate=0.0029; objective=0.0115
+D000259,N20261010-S037,observe,T00023,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.48; next_rate=0.0115; objective=0.0190
+D000260,N20261010-S037,observe,T00018,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=3.51; next_rate=0.0071; objective=0.0161
+D000261,N20261010-S039,observe,T00023,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=2.92; next_rate=0.0267; objective=0.0383
+D000262,N20261010-S039,observe,T00026,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=9.51; next_rate=0.0275; objective=0.0456
+D000263,N20261010-S040,observe,T00023,DARK,,paper-inspired feasible lookahead: coverage_delta=6.88; next_rate=0.0578; objective=0.0943
+D000264,N20261010-S041,observe,T00029,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=7.31; next_rate=0.0388; objective=0.0494
+D000265,N20261010-S042,observe,T00024,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=4.40; next_rate=0.0000; objective=0.0358
+D000266,N20261011-S001,observe,T00052,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.56; next_rate=0.0016; objective=0.0034
+D000267,N20261011-S002,observe,T00002,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000268,N20261011-S003,observe,T00002,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000269,N20261011-S004,observe,T00002,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000270,N20261011-S005,observe,T00001,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000271,N20261011-S005,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000272,N20261011-S006,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000273,N20261011-S007,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000274,N20261011-S007,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000275,N20261011-S008,observe,T00001,BACKUP,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000276,N20261011-S009,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000277,N20261011-S009,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000278,N20261011-S010,wait,,,,no legal observable candidate can finish in its known window
+D000279,N20261011-S011,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000280,N20261011-S011,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000281,N20261011-S012,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000282,N20261011-S013,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000283,N20261011-S013,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000284,N20261011-S014,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000285,N20261011-S015,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000286,N20261011-S015,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000287,N20261011-S016,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000288,N20261011-S017,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000289,N20261011-S017,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000290,N20261011-S018,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000291,N20261011-S019,wait,,,,no legal observable candidate can finish in its known window
+D000292,N20261011-S020,wait,,,,no legal observable candidate can finish in its known window
+D000293,N20261011-S021,wait,,,,no legal observable candidate can finish in its known window
+D000294,N20261011-S022,wait,,,,no legal observable candidate can finish in its known window
+D000295,N20261011-S023,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000296,N20261011-S023,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000297,N20261011-S024,observe,T00012,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000298,N20261011-S025,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000299,N20261011-S026,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=1.12; next_rate=0.0013; objective=0.0049
+D000300,N20261011-S027,observe,T00005,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.28; next_rate=0.0006; objective=0.0013
+D000301,N20261011-S028,observe,T00007,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.08; next_rate=0.0002; objective=0.0004
+D000302,N20261011-S030,observe,T00023,BRIGHT,,repeat observation to confirm an anomalous realized-score deviation
+D000303,N20261011-S030,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000304,N20261011-S031,observe,T00001,BRIGHT,,paper-inspired feasible lookahead: coverage_delta=0.00; next_rate=0.0000; objective=0.0000
+D000305,N20261011-S031,observe,T00019,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000306,N20261011-S033,observe,T00018,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000307,N20261011-S034,observe,T00019,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000308,N20261011-S036,observe,T00019,BRIGHT,,repeat observation to confirm an anomalous realized-score deviation
+D000309,N20261011-S037,observe,T00019,BRIGHT,,repeat observation to confirm an anomalous realized-score deviation
+D000310,N20261011-S039,observe,T00029,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000311,N20261011-S039,report_nova,T00019,,,
+D000312,N20261011-S040,observe,T00032,BACKUP,,repeat observation to confirm an anomalous realized-score deviation
+D000313,N20261011-S041,observe,T00028,BACKUP,,paper-inspired feasible lookahead: coverage_delta=49.23; next_rate=0.0000; objective=0.8269
+D000314,N20261011-S042,wait,,,,no legal observable candidate can finish in its known window

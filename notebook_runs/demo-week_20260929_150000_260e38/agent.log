@@ -1,0 +1,3 @@
+[local-runner] entry=minimal_agent.py python=c:\Program Files\Python310\python.exe dotenv_keys=[] wallclock=600s
+minimal-agent provider=deterministic
+minimal-agent finished: termination_reason=survey_complete decisions=299 last_decision_sequence=299
