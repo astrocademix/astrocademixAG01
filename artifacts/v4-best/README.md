@@ -15,6 +15,8 @@
 
 压缩包默认关闭LLM/API以保留数值配置，不能声称已经满足比赛的API/LLM接入要求。不得将未测过的“数值组合＋Agent”的成绩视为6700.94。包内README给出开发复核命令、JSONL入口、依赖和限制。
 
+兼容修正：已移除平台不接受的清单`env`字段；运行参数由`run_agent.py`设置，算法与权重不变。请重新上传最新ZIP。
+
 包内有`weights/`、`experiments/`、`evidence/`和逐文件哈希。没有API密钥、服务器token、Qwen27B权重或原始调用日志。
 
-SHA-256：`f37300114ff476b6f845112ac25add7c2f2fbb0be78ae9a9f4a3943331dc806b`
+SHA-256：`954e4b9bde985e56a66f1a1c2d54e75e3e35952539e497d48191f578d858de43`
