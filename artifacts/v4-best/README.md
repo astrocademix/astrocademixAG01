@@ -15,8 +15,8 @@
 
 压缩包默认关闭LLM/API以保留数值配置，不能声称已经满足比赛的API/LLM接入要求。不得将未测过的“数值组合＋Agent”的成绩视为6700.94。包内README给出开发复核命令、JSONL入口、依赖和限制。
 
-兼容修正：清单采用`schema_version: observer-project-v1`与`image: python:3.12-slim`，移除了`env`和`protocol`；运行参数由`run_agent.py`设置，算法与权重不变。请重新上传最新ZIP。
+兼容修正：清单采用`schema_version: observer-project-v1`与`image: python:3.12-slim`，移除了`env`和`protocol`；运行参数由`run_agent.py`设置，算法与权重不变。`build`现为二维命令数组，NumPy固定2.3.5并安装到项目`.deps`目录，入口自动加载。请重新上传最新ZIP。
 
 包内有`weights/`、`experiments/`、`evidence/`和逐文件哈希。没有API密钥、服务器token、Qwen27B权重或原始调用日志。
 
-SHA-256：`8e2f36ac8a2fd40bb15ec7b9ef79d4a1f9c54b437c2c5eefec41f0f535b1de63`
+SHA-256：`9eb774251b21dd66866275de972e4ccf6168056f251e54139817ccc18409c2cf`
